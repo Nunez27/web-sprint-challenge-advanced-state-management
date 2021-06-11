@@ -4,7 +4,7 @@
 
 This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored **advanced state management**. During this sprint, you studied **the reducer pattern, and redux**. 
 
-In your challenge this week, you will demonstrate your mastery of these skills by creating the **Smurf Village Database**!    
+In your challenge this week, you will demonstrate your mastery of these skills by creating the **Smurf Village Database**!
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
